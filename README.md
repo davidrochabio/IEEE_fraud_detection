@@ -4,3 +4,5 @@ Notebook with the pipeline for the IEEE-CIS Kaggle competition to detect credit 
 https://www.kaggle.com/c/ieee-fraud-detection
 
 SCORE on test set - 0.932351 (late submission)
+
+Evironment requirements: check requirements files (pip and conda)
